@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nameFR": "Accueil",
+        "nameEN": "Home",
+        "addressFR": "",
+        "addressEN": ""
+    },
+    {
+        "id": 2,
+        "nameFR": "La Petite Symphonie",
+        "nameEN": "La Pette Symphonie",
+        "addressFR": "lps",
+        "addressEN": "lps"
+    },
+    {
+        "id": 3,
+        "nameFR": "Programmes",
+        "nameEN": "dadz",
+        "addressFR": "prog",
+        "addressEN": "prog"
+    },
+    {
+        "id": 4,
+        "nameFR": "Actions culturelles",
+        "nameEN": "Cultural",
+        "addressFR": "actions",
+        "addressEN": "actions"
+    },
+    {
+        "id": 5,
+        "nameFR": "Discographie",
+        "nameEN": "Discooo",
+        "addressFR": "discographie",
+        "addressEN": "discographie"
+    },
+    {
+        "id": 6,
+        "nameFR": "Mécénat",
+        "nameEN": "Mencennn",
+        "addressFR": "mecenat",
+        "addressEN": "mecenat"
+    },
+    {
+        "id": 7,
+        "nameFR": "Agenda",
+        "nameEN": "Agenda",
+        "addressFR": "agenda",
+        "addressEN": "agenda"
+    },
+    {
+        "id": 8,
+        "nameFR": "Contact",
+        "nameEN": "Contact",
+        "addressFR": "contacts",
+        "addressEN": "contacts"
+    }
+]
